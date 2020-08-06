@@ -3,4 +3,6 @@ class Artist
     @title = title
   end
 
+  attr_accessor :title
+
 end
