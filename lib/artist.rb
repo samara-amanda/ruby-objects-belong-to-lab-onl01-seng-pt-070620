@@ -1,5 +1,3 @@
 class Artist
-  attr_accessor :name, :genre
-  def initialize
-  end
+  attr_accessor :name
 end
