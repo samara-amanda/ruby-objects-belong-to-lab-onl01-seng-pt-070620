@@ -3,7 +3,7 @@ class Post
 
 
   def author=(author)
-    self.author = author
+    @author = author
   end
 
   def author
