@@ -1,5 +1,5 @@
 class Artist
-  def initialize(title)
+  def initialize
     @title = title
   end
 
